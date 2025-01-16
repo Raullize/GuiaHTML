@@ -2,12 +2,8 @@
 
 Bem-vindo ao **GuiaHTML**! Aqui você encontrará explicações, anotações e dicas sobre HTML, desde os conceitos básicos até tópicos mais avançados. Este guia foi criado para iniciantes e programadores intermediários que queiram relembrar ou consolidar conhecimentos sobre HTML. Vamos lá! 🖥️
 
----
-
 ## O que é HTML? 🤔
 HTML (*HyperText Markup Language*) é a linguagem padrão para a criação de páginas web. Ela estrutura o conteúdo das páginas por meio de marcações (tags).
-
----
 
 ## Preparando o Ambiente 🛠️
 1. **Editor de Código**: Recomenda-se o uso do [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
@@ -26,7 +22,6 @@ HTML (*HyperText Markup Language*) é a linguagem padrão para a criação de p�
 </body>
 </html>
 ```
----
 
 ## Principais Tags e Conceitos 📖
 
