@@ -4,12 +4,12 @@ Bem-vindo ao **GuiaHTML**! Aqui você encontrará explicações, anotações e d
 
 ---
 
-## 📋 O que é HTML?
+## O que é HTML? 🤔
 HTML (*HyperText Markup Language*) é a linguagem padrão para a criação de páginas web. Ela estrutura o conteúdo das páginas por meio de marcações (tags).
 
 ---
 
-## 🛠️ Preparando o Ambiente
+## Preparando o Ambiente 🛠️
 1. **Editor de Código**: Recomenda-se o uso do [Visual Studio Code (VSCode)](https://code.visualstudio.com/).
    - Instale a extensão "Live Server" para visualizar mudanças no navegador em tempo real. 🌐
 2. **Estrutura Básica de um Arquivo HTML**:
@@ -28,9 +28,9 @@ HTML (*HyperText Markup Language*) é a linguagem padrão para a criação de p�
 ```
 ---
 
-## 📖 Principais Tags e Conceitos
+## Principais Tags e Conceitos 📖
 
-### 1. **Tags de Texto** 📝
+### **Tags de Texto** 📝
 - `<h1> a <h6>`: Títulos de diferentes níveis.
 - `<p>`: Parágrafo.
 - `<strong>` e `<em>`: Texto em **negrito** e *itálico*, respectivamente.
@@ -44,27 +44,27 @@ HTML (*HyperText Markup Language*) é a linguagem padrão para a criação de p�
 <hr>
 ```
 
-### 2. **Comentários** 💬
+### **Comentários** 💬
 Use comentários para documentar o código:
 ```html
 <!-- Este é um comentário e não será exibido no navegador -->
 ```
 
-### 3. **Imagens** 🖼️
+### **Imagens** 🖼️
 - Exibindo imagens com a tag `<img>`:
 ```html
 <img src="caminho-da-imagem.jpg" alt="Descrição da imagem" width="300">
 ```
   - Atributos importantes: `src`, `alt`, `width`, `height`.
 
-### 4. **Links** 🔗
+### **Links** 🔗
 - Criando links com `<a>`:
 ```html
 <a href="https://www.google.com" target="_blank">Visite o Google</a>
 ```
   - Atributos importantes: `href`, `target`.
 
-### 5. **Listas** 📋
+### **Listas** 📋
 - Listas não ordenadas:
 ```html
 <ul>
@@ -80,7 +80,7 @@ Use comentários para documentar o código:
 </ol>
 ```
 
-### 6. **Formulários** 📑
+### **Formulários** 📑
 - Elementos principais:
 ```html
 <form action="/enviar" method="post">
@@ -90,7 +90,7 @@ Use comentários para documentar o código:
 </form>
 ```
 
-### 7. **Tabelas** 📊
+### **Tabelas** 📊
 - Criando tabelas simples:
 ```html
 <table border="1">
@@ -109,11 +109,11 @@ Use comentários para documentar o código:
 </table>
 ```
 
-### 8. **Div e Span** 🧩
+### **Div e Span** 🧩
 - `<div>`: Divisão genérica para agrupar elementos.
 - `<span>`: Elemento genérico para estilização inline.
 
-### 9. **Semântica e Acessibilidade** ♿
+### **Semântica e Acessibilidade** ♿
 
 #### Semântica
 As tags semânticas ajudam a dar significado ao conteúdo da página, facilitando a leitura tanto para desenvolvedores quanto para motores de busca (SEO). Exemplos de tags semânticas:
@@ -177,8 +177,6 @@ Acessibilidade em HTML é crucial para garantir que todos possam navegar e inter
 
 6. **Estrutura e Navegação**:
    - Use tags semânticas para estruturar o conteúdo de forma lógica e intuitiva.
-
----
 
 ## 🌐 Recursos Adicionais
 - [MDN Web Docs: HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
