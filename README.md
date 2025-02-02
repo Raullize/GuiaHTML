@@ -1,4 +1,4 @@
-# GuiaHTML 🚀
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E34F26&height=180&section=header&text=GuiaHTML&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
 Bem-vindo ao **GuiaHTML**! Aqui você encontrará explicações, anotações e dicas sobre HTML, desde os conceitos básicos até tópicos mais avançados. Este guia foi criado para iniciantes e programadores intermediários que queiram relembrar ou consolidar conhecimentos sobre HTML. Vamos lá! 🖥️
 
@@ -183,3 +183,5 @@ Acessibilidade em HTML é crucial para garantir que todos possam navegar e inter
 Esperamos que este guia tenha sido útil para você! 😄 Continuaremos expandindo com mais dicas e exemplos.
 
 🎯 **Contribuições são bem-vindas!** Caso queira adicionar algo, faça um pull request no repositório.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E34F26&height=120&section=footer"/>
