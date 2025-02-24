@@ -1,10 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E34F26&height=180&section=header&text=GuiaHTML&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
 
-# 📚 GuiaHTML
+# 🌐 GuiaHTML
 
 Bem-vindo ao **GuiaHTML**! Aqui você encontrará explicações, anotações e dicas sobre HTML, desde os conceitos básicos até tópicos mais avançados. Este guia foi criado para iniciantes e programadores intermediários que queiram relembrar ou consolidar conhecimentos sobre HTML. Vamos lá! 🖥️
 
-## 📚 Sumário de Conteúdos
+## 📚 Conteúdo
 
 1. [📖 O que é HTML?](#o-que-e-html)
 2. [🛠️ Preparando o Ambiente](contents/preparando-ambiente.md)
