@@ -18,11 +18,39 @@ Bem-vindo ao **GuiaHTML**! Aqui você encontrará explicações, anotações e d
 10. [🧩 Div e Span](contents/div-e-span.md)
 11. [📐 Semântica](contents/semantica.md)
 12. [♿ Acessibilidade](contents/acessibilidade.md)
+13. [🔍 Meta Tags e SEO](contents/meta-tags-seo.md)
+14. [🎮 Eventos HTML](contents/eventos.md)
+15. [🏷️ Atributos de Dados (data-*)](contents/atributos-dados.md)
 
 ---
 
 <h2 id="o-que-e-html"> 📖 O que é HTML? </h2>
-HTML (*HyperText Markup Language*) é a linguagem padrão para a criação de páginas web. Ela estrutura o conteúdo das páginas por meio de marcações (tags).
+
+HTML (*HyperText Markup Language*) é a linguagem fundamental da web, responsável por estruturar todo o conteúdo que você visualiza em páginas na internet. Diferente das linguagens de programação tradicionais, o HTML é uma linguagem de marcação que utiliza **tags** (etiquetas) para definir a estrutura e organização dos elementos em uma página.
+
+### Como funciona o HTML:
+
+- **Estrutura**: Define a arquitetura básica de um documento web, organizando elementos como cabeçalhos, parágrafos, imagens e links.
+- **Semântica**: Proporciona significado aos elementos, ajudando navegadores e tecnologias assistivas a entenderem o propósito do conteúdo.
+- **Base para outras tecnologias**: Trabalha em conjunto com CSS (para estilização) e JavaScript (para interatividade).
+
+Exemplo básico de um documento HTML:
+
+```html
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Minha Primeira Página</title>
+</head>
+<body>
+    <h1>Olá, Mundo!</h1>
+    <p>Este é um parágrafo em HTML.</p>
+</body>
+</html>
+```
+
+O HTML está atualmente na versão HTML5, que introduziu novas tags semânticas, suporte nativo para áudio e vídeo, e recursos avançados que facilitam o desenvolvimento de aplicações web modernas.
 
 ## 🌐 Recursos Adicionais
 
