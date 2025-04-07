@@ -21,6 +21,7 @@ Bem-vindo ao **GuiaHTML**! Aqui você encontrará explicações, anotações e d
 13. [🔍 Meta Tags e SEO](contents/meta-tags-seo.md)
 14. [🎮 Eventos HTML](contents/eventos.md)
 15. [🏷️ Atributos de Dados (data-*)](contents/atributos-dados.md)
+16. [✨ Clean Code e Boas Práticas](contents/clean-code-html.md)
 
 ---
 
